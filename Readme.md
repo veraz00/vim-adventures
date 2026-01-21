@@ -182,3 +182,89 @@
         - Press `t-` before enter then `;k` to exit the **(2-(3** puzzle 
         - Enter the **a** in **name** in **What's** puzzle : `Gh` to exit 
 
+
+
+
+# Level 8 
+
+- **Shoot for** puzzle 
+    - Go into **h** in **honeymoon**: `dtm`
+    - `jhrm` → `b` → `dtl` → `jh` → `dta` → `dG`
+    - Collect `*` key  
+
+- **That's** puzzle 
+    - Move to every box which has crashes
+    - Collect golden key 
+
+- **Here's** puzzle 
+    - Start from **H** in **Here's** 
+    - `$` → `***` → `j` to jump across this block 
+
+- **You have** puzzle 
+    - Move into every grass
+    - Collect `#` key
+
+- Back to **Here's** puzzle 
+    - Jump on all the crashed box using `#` and `*`
+    - Collect the blue key 
+    - Unlock the blue door to collect `n` key 
+
+- **Today** puzzle 
+    - On **You** from **You have**, press `*`
+    - Start from **e** in **true**, press `N` 
+    - Unlock the golden door 
+
+- **Eeny,** puzzle 
+    - Start from **,** in **Eeny**
+    - `#` → `$$` → `kkk` → `*`
+
+
+# Level 9 
+
+- **Numbers** puzzle 
+    - Start from **N** in **Numbers**
+    - `$` → `jjjj`
+    - Go into every grass (not tree) to collect golden key
+    - Open the golden door to collect `i` key
+
+- **I don't** puzzle 
+    - Start from **n** in **don't** 
+    - `4j` → `^` → `2k` → `3w` → `4$` → `Tu`
+    - How to collect golden key: `5G` → `to` → `5k`
+    - Collect golden key 
+
+- **var i,** puzzle - 8 key presses
+    - Start from **f** in **for**
+    - `fi` → `3*` → `Fu` → `2*`     
+
+- **...-** puzzle 
+    - `3e` to leave the block 
+
+- **HAWAII** puzzle - 16 key presses 
+    - `3x` → `~` → `j` → `5~` → `5j` → `d4j` → `fC` → `2rG`
+    - `6k` to go back to collect the key 
+
+- Back to left size, **You keep** puzzle - 4 key presses 
+    - Start from **.** in end of **means.**
+    - Press `Fk` before joining the block, `*` → `;` → `k`
+
+- Go up to **3.1415** puzzle - 7 key presses 
+    - `f8` before joining the puzzle 
+    - `2G` → `;` → `3j`
+    - Collect the golden key
+
+- Go back to **You keep** puzzle - 4 keys 
+    - Start from **k** in **keep** 
+    - `$` → `*` → `k`
+    - rejoin again: `Fa` before joining 
+    - `b` → `;` → `j`
+
+- **Deleting** puzzle 
+    - At the start of 'not so ' → `d2w`
+    - At the start of 'e22' → `3x`
+    - At the start of '(C) Writes serverd ''s' → `d3W x`
+    - At the start of 'XOOOO XOOOOO O' → `d3tX`
+    - At the start of 'word1 w2 word1 w2 ''1' → `d4W x`
+    - At the start of 'bye bye' → `d2tb`
+
+- Use 3 keys to unlock the door, go into level 10 
