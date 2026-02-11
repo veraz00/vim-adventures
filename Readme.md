@@ -268,3 +268,157 @@
     - At the start of 'bye bye' → `d2tb`
 
 - Use 3 keys to unlock the door, go into level 10 
+
+
+
+# Level 10 
+
+- **Deleted** puzzle 
+    - Collect `p` command
+    - Delete the letters with the red box around it, starting with cursor on the first letter of the following word. Then use `P` (paste before the cursor) and `p` (paste after the cursor) on the bubbles 
+        - `delet`: `5x`
+        - `you `: `4x`
+        - `real`: `4x` 
+    - Collect golden keys and unlock the **door** to enter the next puzzle 
+
+- **Bey** puzzle 
+    - On `t` on red box: `x`
+    - Go to every bubble part, use `p` and `P` to paste `t` 
+
+- **Round** puzzle - 7 keys 
+    - Start on 'd' of 'round': `j` → `dj` → `k` → `P` → `G` → `p`
+    - Collect `"` key 
+
+- **If you** puzzle - 7 keys
+    - On `t` on red box: `x`
+    - Go to **X** on **weXll**: `"_x` → `gg` → `$` → `p`
+    - How to collect key: `3j` → `2Te`
+
+- **tweedle beetle** puzzle - 98 keys 
+    - Start on 3rd 'e' of 'beetles': `G` → `3j` → `b` → `"bdw` → `b` → `"adw` → `b` → `"Bde` → `j` → `"Adw` → `"Ade` → `k` → `"aP` → `G` → `"bP`
+    - A small brown key appears, grab it
+    - Go back to the house at the beginning and use the small brown key to open the box: collect `y` command 
+
+- **rule them** puzzle 
+    - On 2nd line of puzzle, start on **O** on **One**: `y3w`
+    - Move to bubbles, use `p` and `P` to paste 
+    - Collect golden key 
+
+- **Let's hear** puzzle 
+    - `dd` to delete the whole line 
+    - After finishing the deletion, on **Hip Hip,** line, use `yy` to copy and paste on the corresponding bubbles 
+    - Collect golden key 
+
+- **Delete me!** puzzle - 7 keys 
+    - On every red line: `dd`
+
+- **on the wall,** puzzle - 15 keys 
+    - Check `:reg`, then paste it to the bubble 
+    - If it not exists in `:reg`, you can yank it to save it to buffer, then exit the puzzle and enter it again, to save keys 
+
+- **the with** puzzle - last puzzle! the most challenge one 
+    - Check `:reg` to see which text you have saved to registers
+    - You need the following lines of text saved to registers:
+        - 'Betty rules'
+        - 'tweedle beetle'
+        - 'on the wall'
+        - 'One Ring'
+    - Go back to the previous puzzles and save each to a different register using yank
+    - Next from registers a-d, starting on the first character of each phrase:
+        - 'on the wall' → `"ay3w` for **on the wall** → `gg`
+        - 'Betty rules' → `"byw` for **Betty ** + `"Bye` for **rule** on **One Ring** puzzle + `"Byl` for **s** (on one of **s** of **darkness**)
+        - 'One Ring' → `"c2ye` for **One Ring**
+        - 'tweedle beetle' → `"d2ye` for **tweedle beetle**
+    - Go back to this puzzle and paste the phrases in the right spot, using the right registers. 
+
+- Then use the collected 3 keys to open the box, go to level 11 
+
+
+
+
+
+# Level 11 
+
+- **rush miracle** puzzle - 15 key presses
+    - Use register to yank: **you<space>** and **miracles** 
+    - The required is **You<space>**, so need to use `~` to make it capitalized after paste 
+    - Collect `c` key 
+
+- **press Ctrl+1** puzzle - 44 keys
+    - Start on 'C' of 'Ctrl+1,': `c3$` → `Esc` → `<Esc>` 
+    - → `j` → `C` → type `insert mode`  → `<Esc>` 
+    - → `j` → `c2w` → type `mode` → `<Esc>`
+    - → `3b` → `ce` → type `return to` → `<Esc>`
+
+- **Made a mistake** puzzle 
+    - Edit each of the following red boxes, starting on the first letter of each box:
+        - 'terrible ': `dw`
+        - 'deleting': `cwediting<Esc>`
+        - '!': `r?`
+        - 'ctrl': `cw<sapce><Esc>`
+        - 'Shift': `cwDelete<Esc>`
+        - Last line: `ccto fix it.<Esc>`
+    - Collect `s` key 
+
+- **Grey.** puzzle 
+    - Start from **G** at the start of sentence: `*` → `C` → type `White` → `<Esc>`
+
+- **What? Probability** puzzle 
+    - Use `s`, `x`, `c`, `cc` to delete the red box 
+
+- Press `:b1` to go to ground
+
+- **Mahatma** puzzle 
+    - Use `s`, `x`, `c` command to delete the red box and insert 
+
+- **4 8 9** puzzle - 20 keys 
+    - Start on the '8': `w` → `s15<Esc>` → `w` → `cw16<Esc>` → `3l` → `x` → `w` → `4C42<Esc>`
+    - Grab the small brown key
+
+- Press `:b2` to go back to sky 
+- Open the box using the 2 keys and get `i` command 
+
+- **entrary** puzzle - 6 key presses
+    - `I` → `Elem`
+
+- **You've** puzzle - 33 key presses
+    - Start on 'Y' of 'You've': `W` → `i` got<space> `<Esc>` → `j` → `I` yourself<space> `<Esc>` → `G` → `i` Well `<Esc>` → `k` → `l` → `i` I `<Esc>`
+    - Grab the 'a' append command
+    - `:ls` to view buffers, we are going to the ground → `:b1`
+    - Go up to the Hakuna Matata puzzle
+
+- **What a phrase** puzzle 
+    - On **H** of **Hakuna**: `yy` → `gg` → `P` → `j` → `p` 
+    - Move the purple bubble and use `c` or `a` to insert the words 
+    - Collect the blue key 
+
+- Go back to `:b2`; use blue key to open the door and collect `o` command
+
+- **D'oh*** puzzle 
+    - `5A!` → `<Esc>`
+
+- **Formally** puzzle 
+    - Delete and insert based on the requirements 
+
+- Go to `:b1` 
+
+- **this whole time** puzzle 
+    - `O` You mean `<Esc>`
+    - `j` → `o`: all I had `<Esc>`
+    - `j` → `o`: click my `<Esc>`
+
+- **No one** puzzle hhhh
+    - Start from **N** on **No one**: `4O` Beat it `<Esc>` → `gg` → `~` → `I` Just`<space>` `<Esc>`
+
+- **Open Sesame!** puzzle 
+    - Start at 'O' of 'Open': `cw:e<Esc>` → `w` → `cW` underground`<Esc>`
+    - Grab the red key
+    - Type `:e underground`
+    - Open red gate, go down to underground puzzle
+
+- **YOU NOT !!PASS** puzzle - 20 keys 
+    - `w` → `cw` SHALL `<Esc>` → `l` → `p` → `2w` → `cw` ! `<Esc>` → `B` → `P`
+
+
+
+# Level 12 
